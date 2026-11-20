@@ -1,0 +1,158 @@
+<mxfile host="65bd71144e">
+    <diagram id="KzYQFvMINJTSZ5eJBYth" name="Page-1">
+        <mxGraphModel dx="786" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Peserta" vertex="1">
+                    <mxGeometry height="1340" width="320" x="120" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-6" edge="1" parent="2XXwf472XiXngVL2PBrQ-2" source="2XXwf472XiXngVL2PBrQ-4" style="edgeStyle=none;html=1;endArrow=blockThin;endFill=1;" target="2XXwf472XiXngVL2PBrQ-5" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-4" parent="2XXwf472XiXngVL2PBrQ-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="145" y="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-5" parent="2XXwf472XiXngVL2PBrQ-2" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;1. Peserta Membuka daftar kegiatan UKM&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="100" y="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-9" parent="2XXwf472XiXngVL2PBrQ-2" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;3. Peserta&amp;nbsp; membuka halaman pendaftaran&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="170" x="75" y="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-13" parent="2XXwf472XiXngVL2PBrQ-2" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;5. Peserta mendaftar kegiatan yang kuotanya masih tersedia&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="170" x="75" y="530" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-22" parent="2XXwf472XiXngVL2PBrQ-2" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;8. Peserta Memilih mencetak kartu Peserta&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="190" x="115" y="1020" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-30" edge="1" parent="2XXwf472XiXngVL2PBrQ-2" source="2XXwf472XiXngVL2PBrQ-28" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;rounded=0;curved=0;endArrow=blockThin;endFill=1;" target="2XXwf472XiXngVL2PBrQ-13">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="117.5" y="840"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-31" connectable="0" parent="2XXwf472XiXngVL2PBrQ-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="Tidak" vertex="1">
+                    <mxGeometry relative="1" x="-0.0817" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-33" edge="1" parent="2XXwf472XiXngVL2PBrQ-2" source="2XXwf472XiXngVL2PBrQ-28" style="edgeStyle=orthogonalEdgeStyle;html=1;rounded=0;curved=0;endArrow=blockThin;endFill=1;" target="2XXwf472XiXngVL2PBrQ-32" value="">
+                    <mxGeometry relative="1" x="0.18" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="210" y="970"/>
+                            <mxPoint x="70" y="970"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-34" connectable="0" parent="2XXwf472XiXngVL2PBrQ-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="Ya" vertex="1">
+                    <mxGeometry relative="1" x="-0.12" y="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-28" parent="2XXwf472XiXngVL2PBrQ-2" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Batal?" vertex="1">
+                    <mxGeometry height="80" width="80" x="170" y="800" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-32" parent="2XXwf472XiXngVL2PBrQ-2" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;12. Peserta memilih membatalkan pendaftaran&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="205" x="40" y="1140" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem SIUKM" vertex="1">
+                    <mxGeometry height="1340" width="320" x="440" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-7" parent="2XXwf472XiXngVL2PBrQ-3" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;2. Sistem Menampilkan daftar Kegiatan UKM beserta kuota pesertanya&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="170" x="40" y="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-11" parent="2XXwf472XiXngVL2PBrQ-3" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;4. Sistem Menampilkan halaman pendaftaran&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="170" x="40" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-18" edge="1" parent="2XXwf472XiXngVL2PBrQ-3" source="2XXwf472XiXngVL2PBrQ-15" style="html=1;endArrow=blockThin;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="2XXwf472XiXngVL2PBrQ-17" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-15" parent="2XXwf472XiXngVL2PBrQ-3" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;6. Sistem memeriksa ketersediaan kuota peserta&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="170" x="40" y="670" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-20" edge="1" parent="2XXwf472XiXngVL2PBrQ-3" source="2XXwf472XiXngVL2PBrQ-17" style="html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" target="2XXwf472XiXngVL2PBrQ-19" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-21" connectable="0" parent="2XXwf472XiXngVL2PBrQ-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="Ya" vertex="1">
+                    <mxGeometry relative="1" x="-0.1059" y="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-17" parent="2XXwf472XiXngVL2PBrQ-3" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="Tersedia?" vertex="1">
+                    <mxGeometry height="80" width="95" x="210" y="800" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-19" parent="2XXwf472XiXngVL2PBrQ-3" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;color: rgb(63, 63, 63); text-align: justify;&quot;&gt;7. Sistem menampilkan kuota tersedia lalu mencatat status Peserta menjadi Terdaftar dan menampilkan kartu peserta&amp;nbsp; &amp;nbsp;&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="235" x="50" y="960" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-24" parent="2XXwf472XiXngVL2PBrQ-3" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;span style=&quot;color: rgb(63, 63, 63); text-align: justify;&quot;&gt;9. Sistem menampilkan kuota tidak tersedia dan menampilkan kembali daftar kegiatan UKM&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="140" x="20" y="810" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-25" edge="1" parent="2XXwf472XiXngVL2PBrQ-3" source="2XXwf472XiXngVL2PBrQ-17" style="edgeStyle=orthogonalEdgeStyle;html=1;" target="2XXwf472XiXngVL2PBrQ-24" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-26" connectable="0" parent="2XXwf472XiXngVL2PBrQ-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="Tidak" vertex="1">
+                    <mxGeometry relative="1" x="-0.0535" y="-2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-35" parent="2XXwf472XiXngVL2PBrQ-3" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="145" y="1280" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-42" edge="1" parent="2XXwf472XiXngVL2PBrQ-3" source="2XXwf472XiXngVL2PBrQ-41" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" target="2XXwf472XiXngVL2PBrQ-35">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-41" parent="2XXwf472XiXngVL2PBrQ-3" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+                    <mxGeometry height="80" width="80" x="120" y="1130" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-8" edge="1" parent="1" source="2XXwf472XiXngVL2PBrQ-5" style="edgeStyle=none;html=1;endArrow=blockThin;endFill=1;" target="2XXwf472XiXngVL2PBrQ-7" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-10" edge="1" parent="1" source="2XXwf472XiXngVL2PBrQ-7" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=blockThin;endFill=1;rounded=0;curved=0;" target="2XXwf472XiXngVL2PBrQ-9" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="565" y="440"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-12" edge="1" parent="1" source="2XXwf472XiXngVL2PBrQ-9" style="edgeStyle=orthogonalEdgeStyle;html=1;rounded=0;curved=0;endArrow=blockThin;endFill=1;" target="2XXwf472XiXngVL2PBrQ-11" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="280" y="570"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-14" edge="1" parent="1" source="2XXwf472XiXngVL2PBrQ-11" style="edgeStyle=orthogonalEdgeStyle;html=1;rounded=0;curved=0;endArrow=blockThin;endFill=1;" target="2XXwf472XiXngVL2PBrQ-13" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="565" y="680"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-16" edge="1" parent="1" source="2XXwf472XiXngVL2PBrQ-13" style="edgeStyle=orthogonalEdgeStyle;html=1;rounded=0;curved=0;endArrow=blockThin;endFill=1;" target="2XXwf472XiXngVL2PBrQ-15" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="280" y="820"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-23" edge="1" parent="1" source="2XXwf472XiXngVL2PBrQ-19" style="edgeStyle=orthogonalEdgeStyle;html=1;rounded=0;curved=0;endArrow=blockThin;endFill=1;" target="2XXwf472XiXngVL2PBrQ-22" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="330" y="1110"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-29" edge="1" parent="1" source="2XXwf472XiXngVL2PBrQ-24" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" target="2XXwf472XiXngVL2PBrQ-28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-39" edge="1" parent="1" source="2XXwf472XiXngVL2PBrQ-22" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;curved=0;endArrow=blockThin;endFill=1;" target="2XXwf472XiXngVL2PBrQ-41">
+                    <mxGeometry relative="1" x="0.6571" as="geometry"/>
+                </mxCell>
+                <mxCell id="2XXwf472XiXngVL2PBrQ-40" edge="1" parent="1" source="2XXwf472XiXngVL2PBrQ-32" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;curved=0;endArrow=blockThin;endFill=1;" target="2XXwf472XiXngVL2PBrQ-41">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
